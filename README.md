@@ -1,5 +1,20 @@
-# 💫 About Me:
-Data Analyst passionate about turning raw data into clear, actionable insights. Skilled in SQL, Python, Power BI, and Tableau, with hands-on experience in machine learning using scikit-learn and PyTorch fundamentals.<br>Currently building real-world ML projects  from customer segmentation using RFM analysis and K-Means clustering to help retail businesses understand their customers, to tools that solve problems in my own daily workflow.<br>Working toward a Master's in Business Analytics & AI to deepen my expertise and grow an international career in data analytics.<br>Always exploring the intersection of data, business strategy, and AI  open to connecting with fellow analysts, data folks, and anyone building in this space.
+👋 About Me
+
+I'm a Data Analyst focused on transforming raw data into actionable business insights.
+
+### Currently Building
+- Customer Segmentation using RFM + K-Means
+- Recommendation Systems
+- Business Intelligence Dashboards
+- Data Automation Tools
+
+### Interested In
+- Machine Learning
+- Business Analytics
+- AI Applications
+- Data Visualization
+
+Always building practical projects that solve real-world problems.
 
 
 ## 🌐 Socials:
