@@ -26,20 +26,12 @@ Always building practical projects that solve real-world problems.
 
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sidharthmalik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sidharthmalik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sidharthmalik&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmalik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharthmalik&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharthmalik&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidharthmalik&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
 
 ## 🏆 GitHub Trophies
