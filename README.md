@@ -59,8 +59,10 @@ Focused on predictive analytics, customer intelligence, recommendation systems, 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
 
 ---
+## 💻 Matrix
+
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5jY3B0dnZyYnM4Z3Jhc3B5eDl1eHk1bXZxN2Q3d3c5eGZ6d2N5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 # 🌐 Connect
