@@ -60,67 +60,6 @@ Focused on predictive analytics, customer intelligence, recommendation systems, 
 
 ---
 
-# Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 Customer Segmentation
-
-Customer segmentation using **RFM Analysis** and **K-Means Clustering**.
-
-**Tech Stack**
-
-Python • Pandas • Scikit-Learn
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎬 Movie Recommendation System
-
-Content-based recommendation engine built using machine learning techniques.
-
-**Tech Stack**
-
-Python • Pandas • NLP
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### 📈 Inventory Analytics Dashboard
-
-Interactive business intelligence dashboard for inventory analytics.
-
-**Tech Stack**
-
-Power BI • SQL
-
-</td>
-
-<td valign="top">
-
-### 🤖 Fake Job Detection
-
-Machine learning model for identifying fraudulent job postings.
-
-**Tech Stack**
-
-Python • Scikit-Learn
-
-</td>
-
-</tr>
-</table>
-
----
 
 # Contribution Graph
 
@@ -130,26 +69,44 @@ Python • Scikit-Learn
 
 ---
 
-# Connect
+---
+
+# 🌐 Connect
 
 <p align="center">
-
 <a href="https://linkedin.com/in/sidharth-malik-66ba83291">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/sidharthmalik">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;
+<a href="https://x.com/sidharthmalik01">
+<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.reddit.com/user/sidharthmalik1">
+<img src="https://skillicons.dev/icons?i=reddit" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<img src="https://skillicons.dev/icons?i=discord" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.kaggle.com/sidharthmalik">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
