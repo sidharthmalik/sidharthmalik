@@ -25,14 +25,7 @@ Always building practical projects that solve real-world problems.
 # 📊 GitHub Stats:
 
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sidharthmalik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmalik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharthmalik&theme=tokyo-night&hide_border=true"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Business+Insights;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Always+Building.)](https://git.io/typing-svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sidharthmalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
