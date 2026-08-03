@@ -59,7 +59,6 @@ Focused on predictive analytics, customer intelligence, recommendation systems, 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
 
 ---
-## 💻 Matrix
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
