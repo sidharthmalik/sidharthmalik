@@ -90,9 +90,8 @@ Focused on predictive analytics, customer intelligence, recommendation systems, 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.reddit.com/user/sidharthmalik1">
-<img src="https://skillicons.dev/icons?i=reddit" height="50"/>
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID">
 <img src="https://skillicons.dev/icons?i=discord" height="50"/>
