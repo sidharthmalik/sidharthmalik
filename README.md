@@ -60,13 +60,11 @@ Focused on predictive analytics, customer intelligence, recommendation systems, 
 
 ---
 
-
-# Contribution Graph
+## ⚡ AI Network
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharthmalik&theme=tokyo-night&hide_border=true"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="Data Stream"/>
 </p>
-
 ---
 
 ---
