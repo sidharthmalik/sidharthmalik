@@ -27,11 +27,11 @@ Always building practical projects that solve real-world problems.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sidharthmalik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=sidharthmalik&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmalik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmalik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharthmalik&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ## 🏆 GitHub Trophies
