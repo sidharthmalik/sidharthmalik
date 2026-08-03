@@ -63,9 +63,8 @@ Focused on predictive analytics, customer intelligence, recommendation systems, 
 ## 💻 Matrix
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=50&pause=0&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=01001000+01100101+01101100+01101100+01101111+00101110;SYSTEM+ONLINE...;INITIALIZING+DATA+PIPELINE...;LOADING+PYTHON+SQL+POWER+BI...;TRAINING+MACHINE+LEARNING+MODELS...;ANALYZING+DATA...;BUILDING+THE+FUTURE..." alt="Matrix Animation"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
 </p>
----
 
 # 🌐 Connect
 
