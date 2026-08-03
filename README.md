@@ -60,12 +60,11 @@ Focused on predictive analytics, customer intelligence, recommendation systems, 
 
 ---
 
-## ⚡ AI Network
+## 🌃 Cyberpunk
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="Data Stream"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" alt="Cyberpunk Banner"/>
 </p>
----
 
 ---
 
