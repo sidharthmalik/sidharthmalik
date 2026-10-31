@@ -65,10 +65,19 @@ I enjoy solving complex problems, experimenting with emerging technologies, and 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sidharthmalik&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sidharthmalik&theme=cobalt&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sidharthmalik&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sidharthmalik&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthmalik&theme=github-dark-blue&hide_border=true" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmalik&layout=compact&theme=github_dark&hide_border=true" width="100%" />
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sidharthmalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
