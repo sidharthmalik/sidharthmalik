@@ -1,5 +1,16 @@
-# 💫 About Me:
- AI-powered automation tools, data analytics projects, and research on LLMs for automated data analysis.<br><br> Open-source AI/ML projects, data science applications, and Python-based automation tools.<br><br> Improving LLM evaluation methods, building scalable AI applications, and contributing to impactful open-source projects.<br><br> Machine Learning, Deep Learning, LLMs, RAG, and production-ready AI engineering.<br><br>Python, SQL, Data Analytics, Machine Learning, Data Visualization, and Text-to-SQL.<br><br> I enjoy turning complex data into actionable insights and building projects that solve real-world problems.
+## 🌠 About Me
+
+I'm a Data Science professional focused on building intelligent applications, data-driven systems, and AI-powered automation tools.
+
+- 🔬 **Research:** Exploring Large Language Models (LLMs), Text-to-SQL, automated Exploratory Data Analysis, and AI evaluation methodologies.
+- 🧠 **AI & Machine Learning:** Developing ML/DL applications, experimenting with RAG architectures, and exploring practical AI engineering.
+- ⚙️ **Engineering:** Building Python-based automation systems, scalable backends, and end-to-end data applications.
+- 📊 **Data Science:** Transforming raw data into actionable insights through statistical analysis, machine learning, and visualization.
+- 🌍 **Open Source:** Building practical projects and contributing to open-source AI/ML and data science ecosystems.
+
+**Areas of Interest:** Machine Learning, Deep Learning, LLMs, RAG, AI Agents, Data Engineering, and Applied AI Research.
+
+I enjoy solving complex problems, experimenting with emerging technologies, and turning research concepts into practical applications.
 
 
 ## 🌐 Socials:
