@@ -66,12 +66,13 @@ I enjoy solving complex problems, experimenting with emerging technologies, and 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sidharthmalik&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&card_width=1000"
-    width="1000"
+    src="https://github-stats-extended.vercel.app/api?username=sidharthmalik&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    width="100%"
     alt="GitHub Statistics"
   />
 </p>
@@ -79,18 +80,19 @@ I enjoy solving complex problems, experimenting with emerging technologies, and 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=sidharthmalik&theme=github-dark-blue&hide_border=true"
-    width="1000"
+    width="100%"
     alt="GitHub Contribution Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmalik&layout=compact&theme=github_dark&hide_border=true&card_width=1000"
-    width="1000"
-    alt="Top Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sidharthmalik&layout=compact&theme=github_dark&hide_border=true"
+    width="100%"
+    alt="Most Used Languages"
   />
 </p>
+
 
 
 
