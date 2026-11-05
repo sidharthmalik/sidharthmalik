@@ -80,7 +80,7 @@ I enjoy solving complex problems, experimenting with emerging technologies, and 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=sidharthmalik&theme=github-dark-blue&hide_border=true"
+    src="https://streak-stats.vercel.app/?user=sidharthmalik&theme=github-dark-blue&hide_border=true"
     width="50%"
     alt="GitHub Contribution Streak"
   />
